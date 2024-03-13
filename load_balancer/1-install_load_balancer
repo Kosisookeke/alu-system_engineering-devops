@@ -40,8 +40,8 @@ frontend clickviral-tech-frontend
 
 backend clickviral-tech-backend
     balance roundrobin
-    server 5992-web-01 3.90.102.183:80 check
-    server 5992-web-02 54.221.99.64:80 check
+    server 5992-web-01 44.220.164.139:80 check
+    server 5992-web-02 54.227.160.225:80 check
     
 "
 
